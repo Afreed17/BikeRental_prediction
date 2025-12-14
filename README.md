@@ -118,6 +118,4 @@ This project demonstrates an **end-to-end machine learning workflow** with stron
 ---
 
 ## Author
-**Mohamed Afreed K**  
-B.Tech – Information Technology  
-Aspiring Data Scientist
+**Mohamed Afreed K** 
